@@ -1,0 +1,14 @@
+.inp {
+ 
+  /*margin: 8px 0;*/
+  /*box-sizing: border-box;*/
+  width: 180px; border-radius: 5px;
+  border: 1px ;
+   display: list-item;
+  
+}
+
+body{
+background-color: #E7C8A2;
+color: white;
+}
